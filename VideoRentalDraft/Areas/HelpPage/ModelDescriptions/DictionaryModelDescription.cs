@@ -1,0 +1,6 @@
+namespace VideoRentalDraft.Areas.HelpPage.ModelDescriptions
+{
+    public class DictionaryModelDescription : KeyValuePairModelDescription
+    {
+    }
+}
